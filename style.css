@@ -1,0 +1,15 @@
+body{
+    
+    text-align: center;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+#title{
+    background-color: #ff0026;
+    color: aliceblue;
+    padding: 5% 17%;
+}
+
+
+.container-fluid{
+    padding: 5% 17%;
+}
